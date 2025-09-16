@@ -32,7 +32,7 @@
   - 📧 Email: dhrutipurushotham@gmail.com
   - 🔗 [LinkedIn](https://www.linkedin.com/in/dhruti-purushotham-3b4033266)
   - 📸 Instagram: [_foto.factory_](https://www.instagram.com/_foto.factory_/)
-  - 🏠 GitHub: [DhrutiPurushotham](https://github.com/DhrutiPurushotham)
+  
 
 
 
